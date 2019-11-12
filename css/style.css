@@ -18,8 +18,10 @@ h1 {
 }
 
 h2 {
+	color: #fff;	
 	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
+	letter-spacing: 0.2em;
 	margin: 0;
 }
 
