@@ -24,18 +24,18 @@ h2 {
 	font-weight: normal;
 	letter-spacing: 0.5em;
 	margin: 0;
-	font-size:2vw;
 }
 
-h3 {
+h2x {
 	color: #fff;
 	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
 	letter-spacing: 0.5em;
 	margin: 0;
+	font-size: 2em
 }
 
-h4,h5,h6 {
+h3,h4,h5,h6 {
 	margin: 3em 0;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
@@ -90,6 +90,11 @@ section {
 	padding: 15px 30px;
 }
 
+.myboxed {
+   style="width:500px;height:100px;border:1px solid #000;position:absolute; 
+} 
+
+
 /* MAIN BANNER
 =========================================================================================*/
 
@@ -113,7 +118,7 @@ section {
 .welcome {
 	color: #fff;
 	display: block;
-	margin: 0 auto;
+	margin-top: 50px;
 	position: absolute;
 	top:8%;
 	width: 100%;
@@ -600,7 +605,7 @@ footer {
 	}
 
 	h1 {
-		font-size: 30px;
+		font-size: 20px;
 	}
 
 	section {
