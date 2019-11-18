@@ -8,18 +8,9 @@ body {
 .inner {
 	padding-top: 97px;
 }
-pmy {
-  	font-size: 30px;
-	color: #fff;
-	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
-	font-weight: normal;
-	letter-spacing: 0.4em;
-	margin: 0
-}
-
 
 h1 {
-	
+	color: #fff;
 	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
 	letter-spacing: 0.5em;
@@ -27,10 +18,8 @@ h1 {
 }
 
 h2 {
-	color: #fff;	
 	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
-	letter-spacing: 0.2em;
 	margin: 0;
 }
 
@@ -64,7 +53,6 @@ p {
 	font-family: 'Futura';
 	margin: 0 0 1em;
 }
-
 
 hr {
 	border-top: 3px solid #eee;
@@ -113,7 +101,7 @@ section {
 .welcome {
 	color: #fff;
 	display: block;
-	margin-top: 120px;
+	margin: 0 auto;
 	position: absolute;
 	top:8%;
 	width: 100%;
