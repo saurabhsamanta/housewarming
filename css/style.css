@@ -118,7 +118,7 @@ section {
 .welcome {
 	color: #fff;
 	display: block;
-	margin-top: 50px;
+	margin: auto auto;
 	position: absolute;
 	top:8%;
 	width: 100%;
