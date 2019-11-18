@@ -15,6 +15,7 @@ h1 {
 	font-weight: normal;
 	letter-spacing: 0.5em;
 	margin: 0;
+	font-size:0.7vw;
 }
 
 h2 {
@@ -23,6 +24,7 @@ h2 {
 	font-weight: normal;
 	letter-spacing: 0.5em;
 	margin: 0;
+	font-size:2vw;
 }
 
 h3 {
@@ -129,21 +131,6 @@ section {
 	text-transform: uppercase;
 }
 
-.welcome h1 {
-	color: #fff;
-	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
-	font-weight: normal;
-	letter-spacing: 0.5em;
-	margin: 0;
-}
-
-.welcome h2 {
-	color: #fff;
-	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
-	font-weight: normal;
-	letter-spacing: 0.5em;
-	margin: 0;
-}
 .welcome span {
 	border: 0;
 	border-top: 1px solid #fff;
