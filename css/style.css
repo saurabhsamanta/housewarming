@@ -18,12 +18,22 @@ h1 {
 }
 
 h2 {
+	color: #fff;
 	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
+	letter-spacing: 0.5em;
 	margin: 0;
 }
 
-h3,h4,h5,h6 {
+h3 {
+	color: #fff;
+	font-family: "Futura", "PT Serif", Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	letter-spacing: 0.5em;
+	margin: 0;
+}
+
+h4,h5,h6 {
 	margin: 3em 0;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
@@ -113,7 +123,7 @@ section {
 }
 
 .welcome p {
-	font-size: 18px;
+	font-size: 20px;
 	letter-spacing: 0.4em;
 	margin: 0;
 	text-transform: uppercase;
